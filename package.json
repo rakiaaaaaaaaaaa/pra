@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rakiaaaaaaaaaaa.github.io/pro",
+  "homepage": "https://rakiaaaaaaaaaaa.github.io/pro/",
   "type": "module",
   "scripts": {
     "dev": "vite",

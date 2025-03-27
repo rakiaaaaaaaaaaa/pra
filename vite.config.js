@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/pro/', // Remplace par ton nom de projet GitHub
 });
