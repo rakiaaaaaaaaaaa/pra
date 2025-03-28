@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rakiaaaaaaaaaaa.github.io/pra/",
+  "homepage": "https://rakiaaaaaaaaaaa.github.io/prada/",
   "type": "module",
   "scripts": {
     "start": "vite",
