@@ -2,11 +2,10 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rakiaaaaaaaaaaa.github.io/pro/",
+  "homepage": "https://rakiaaaaaaaaaaa.github.io/pra/",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-     "start": "vite",
+    "start": "vite",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
